@@ -1,3 +1,4 @@
+![mind](mentalhealth.jpg)
 # Mental Health Analysis of University Students
 
 This project explores the mental health of international and domestic students at a Japanese university, based on a 2018 survey. The analysis investigates the relationship between student type, length of stay, and key mental health indicators like depression, social connectedness, and acculturative stress.
